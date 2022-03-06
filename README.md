@@ -2,4 +2,4 @@
 
 ⛔️ Deprecated
 
-A simple python-opencv application to add watermark on images.
+A simple python-opencv + tkinter application to add watermark on images.
